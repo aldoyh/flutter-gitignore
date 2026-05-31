@@ -1,0 +1,20 @@
+repo_name: aldoyh/flutter-gitignore
+report_id: 23745e8c534a2dcfa6a0415d8118b0c0
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-10T18:25:21+00:00'
+requested_by: aldoyh
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aldoyh/flutter-gitignore
+  detection_source: Repo Metadata
